@@ -1,0 +1,2 @@
+export const LOG_IN_SUCCESS = 'LOG_IN_SUCCESS'
+export const TASKS_GET_SUCCESS = 'TASKS_GET_SUCCESS'
